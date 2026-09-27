@@ -1,9 +1,9 @@
 /*
-   ✦ ✦ ✦   S M D - M I N I   ✦ ✦ ✦
+   ✦ ✦ ✦   PrimeSA_AI   ✦ ✦ ✦
 
 ─────────────────────────────────────────────────────────────
-📛 Project   : SMD-MiNi
-👤 Creator   : MRSHABAN
+📛 Project   : PrimeSA
+👤 Creator   : Pro Sahil
 🌐 GitHub    : https://github.com/iTx-Sarkar
 📱 Contact   : https://t.me/@bandaheali
 📢 Channel   : https://whatsapp.com/channel/0029VaDaBJGJUM2jS0z59S3s
