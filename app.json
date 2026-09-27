@@ -1,5 +1,5 @@
 {
-  "name": "SMD-MiNi",
+  "name": "PrimeSA_AI",
   "description": "Javascript WhatsApp bot powered by Team-Bandaheali",
   "logo": "https://bandaheali-cdn.koyeb.app/bandaheali/smd.jpg",
   "keywords": [
@@ -21,7 +21,7 @@
 
     "OWNER_NUMBER": {
       "description": "Bot owner WhatsApp number without + sign",
-      "value": "923253617422",
+      "value": "27783799346",
       "required": true
     },
 
@@ -33,31 +33,31 @@
 
     "BOT_NAME": {
       "description": "Bot display name",
-      "value": "Rashid",
+      "value": "PrimeSA_AI",
       "required": false
     },
 
     "OWNER_NAME": {
       "description": "Bot owner name",
-      "value": "THE-DEVIL",
+      "value": "Pro Sahil",
       "required": false
     },
 
     "CAPTION": {
       "description": "Footer caption used in bot messages",
-      "value": "POWERED BY TEAM-BANDAHEALI",
+      "value": "POWERED BY PrimeSA_AI",
       "required": false
     },
 
     "STATUS_MSG": {
       "description": "Bot auto status message",
-      "value": "Hello From Team-Bandaheali",
+      "value": "Hello From PrimeSA_AI",
       "required": false
     },
 
     "NEWSLETTER_JID": {
       "description": "WhatsApp newsletter/channel JID",
-      "value": "120363175375282051@newsletter",
+      "value": "120363406672648713@newsletter",
       "required": false
     },
 
