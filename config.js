@@ -20,7 +20,7 @@ module.exports = {
     // =============================
     OWNER_NUMBER:
         process.env.OWNER_NUMBER ||
-        "923253617422",
+        "27783799346",
     
     PREFIX: process.env.PREFIX || ".",
 
@@ -29,23 +29,23 @@ module.exports = {
     // =============================
     BOT_NAME:
         process.env.BOT_NAME ||
-        "SMD-MINI",
+        "PrimeSA_AI",
 
     OWNER_NAME:
         process.env.OWNER_NAME ||
-        "TEAM-BANDAHEALI",
+        "Pro Sahil",
 
     CAPTION:
         process.env.CAPTION ||
-        "POWERED BY TEAM-BANDAHEALI",
+        "POWERED BY PrimeSA_Bot",
 
     STATUS_MSG:
         process.env.STATUS_MSG ||
-        "Hello From Team-Bandaheali",
+        "Hello From PrimeSA_AI",
 
     NEWSLETTER_JID:
         process.env.NEWSLETTER_JID ||
-        "120363175375282051@newsletter",
+        "120363406672648713@newsletter",
 
     MENU_IMG:
         process.env.MENU_IMG ||
