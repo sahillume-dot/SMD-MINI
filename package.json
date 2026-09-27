@@ -1,7 +1,7 @@
 {
-  "name": "smd-mini",
+  "name": "primesa-ai",
   "version": "1.0.0",
-  "description": "SMD Mini WhatsApp Bot using Baileys and MongoDB",
+  "description": "PrimeSA_AI WhatsApp Bot using Baileys and MongoDB",
   "type": "commonjs",
   "main": "index.js",
 
