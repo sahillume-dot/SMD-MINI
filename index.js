@@ -6,7 +6,7 @@
 👤 Creator   : Pro Sahil
 🌐 GitHub    : https://github.com/iTx-Sarkar
 📱 Contact   : https://t.me/@bandaheali
-📢 Channel   : https://whatsapp.com/channel/0029VaDaBJGJUM2jS0z59S3s
+📢 Channel   : https://whatsapp.com/channel/0029VbCIUrC4tRrmjdI9QM1x
 🗓 Release   : 12 • Aprail • 2026 | 12:00 PM
 ─────────────────────────────────────────────────────────────
  
